@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4AB77693-39BD-CD94-FAA1-3800E57E17B1}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
+    <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectType>GamePlugins:3</UnityProjectType>
+    <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
+    <UnityVersion>5.6.1f1</UnityVersion>
+    <RootNamespace></RootNamespace>
+    <LangVersion>4</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Debug\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Debug\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_1;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;CROSS_PLATFORM_INPUT</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\UnityVS_bin\Release\</OutputPath>
+    <IntermediateOutputPath>Temp\UnityVS_obj\Release\</IntermediateOutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DefineConstants>TRACE;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_5_6_1;UNITY_5_6;UNITY_5;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_DUCK_TYPING;ENABLE_GENERICS;ENABLE_PVR_GI;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_RUNTIME_NAVMESH_BUILDING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;ENABLE_NATIVE_ARRAY;INCLUDE_DYNAMIC_GI;INCLUDE_GI;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;INCLUDE_PUBNUB;ENABLE_PLAYMODE_TESTS_RUNNER;ENABLE_SCRIPTING_NEW_CSHARP_COMPILER;ENABLE_VIDEO;UNITY_STANDALONE_WIN;UNITY_STANDALONE;ENABLE_SUBSTANCE;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITYWEBREQUEST;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_EVENT_QUEUE;ENABLE_CLUSTERINPUT;ENABLE_VR;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_2_0_SUBSET;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_NATIVE_ARRAY_CHECKS;UNITY_TEAM_LICENSE;ENABLE_VSTU;CROSS_PLATFORM_INPUT</DefineConstants>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="Boo.Lang" />
+    <Reference Include="UnityScript.Lang" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>Library\UnityAssemblies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.TestRunner">
+      <HintPath>Library\UnityAssemblies\UnityEngine.TestRunner.dll</HintPath>
+    </Reference>
+    <Reference Include="nunit.framework">
+      <HintPath>Library\UnityAssemblies\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Analytics">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.HoloLens">
+      <HintPath>Library\UnityAssemblies\UnityEngine.HoloLens.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.VR">
+      <HintPath>Library\UnityAssemblies\UnityEngine.VR.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Sanford.Multimedia.Midi">
+      <HintPath>assets\AudioHelm\Plugins\Sanford.Multimedia.Midi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\AxisTouchButton.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\Joystick.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\MobileControlRig.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\TouchPad.cs" />
+    <Compile Include="assets\standard assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
+    <Compile Include="assets\standard assets\Utility\ActivateTrigger.cs" />
+    <Compile Include="assets\standard assets\Utility\AlphaButtonClickMask.cs" />
+    <Compile Include="assets\standard assets\Utility\AutoMobileShaderSwitch.cs" />
+    <Compile Include="assets\standard assets\Utility\AutoMoveAndRotate.cs" />
+    <Compile Include="assets\standard assets\Utility\CameraRefocus.cs" />
+    <Compile Include="assets\standard assets\Utility\CurveControlledBob.cs" />
+    <Compile Include="assets\standard assets\Utility\DragRigidbody.cs" />
+    <Compile Include="assets\standard assets\Utility\DynamicShadowSettings.cs" />
+    <Compile Include="assets\standard assets\Utility\EventSystemChecker.cs" />
+    <Compile Include="assets\standard assets\Utility\FOVKick.cs" />
+    <Compile Include="assets\standard assets\Utility\FPSCounter.cs" />
+    <Compile Include="assets\standard assets\Utility\FollowTarget.cs" />
+    <Compile Include="assets\standard assets\Utility\ForcedReset.cs" />
+    <Compile Include="assets\standard assets\Utility\LerpControlledBob.cs" />
+    <Compile Include="assets\standard assets\Utility\ObjectResetter.cs" />
+    <Compile Include="assets\standard assets\Utility\ParticleSystemDestroyer.cs" />
+    <Compile Include="assets\standard assets\Utility\PlatformSpecificContent.cs" />
+    <Compile Include="assets\standard assets\Utility\SimpleActivatorMenu.cs" />
+    <Compile Include="assets\standard assets\Utility\SimpleMouseRotator.cs" />
+    <Compile Include="assets\standard assets\Utility\SmoothFollow.cs" />
+    <Compile Include="assets\standard assets\Utility\TimedObjectActivator.cs" />
+    <Compile Include="assets\standard assets\Utility\TimedObjectDestructor.cs" />
+    <Compile Include="assets\standard assets\Utility\WaypointCircuit.cs" />
+    <Compile Include="assets\standard assets\Utility\WaypointProgressTracker.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Antialiasing.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Bloom.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\BloomAndFlares.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\BloomOptimized.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Blur.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\BlurOptimized.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\CameraMotionBlur.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ColorCorrectionCurves.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ColorCorrectionLookup.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ColorCorrectionRamp.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ContrastEnhance.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ContrastStretch.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\CreaseShading.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\DepthOfField.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\DepthOfFieldDeprecated.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\EdgeDetection.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Fisheye.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\GlobalFog.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Grayscale.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ImageEffectBase.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ImageEffects.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\MotionBlur.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\NoiseAndGrain.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\NoiseAndScratches.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\PostEffectsBase.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\PostEffectsHelper.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Quads.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ScreenOverlay.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ScreenSpaceAmbientObscurance.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\ScreenSpaceAmbientOcclusion.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\SepiaTone.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\SunShafts.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\TiltShift.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Tonemapping.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Triangles.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Twirl.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\VignetteAndChromaticAberration.cs" />
+    <Compile Include="assets\standard assets\effects\imageeffects\Scripts\Vortex.cs" />
+    <Compile Include="assets\standard assets\environment\Water (Basic)\Scripts\WaterBasic.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\Displace.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\GerstnerDisplace.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\MeshContainer.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\PlanarReflection.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\SpecularLighting.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\Water.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\WaterBase.cs" />
+    <Compile Include="assets\standard assets\environment\water\Water\Scripts\WaterTile.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\playway water\Samples\Galleon Demo\Galleon Sample Depth Map.shader" />
+    <None Include="assets\playway water\Shaders\Editor\InspectTexture.shader" />
+    <None Include="assets\playway water\Shaders\FFT\DX11 FFT.compute" />
+    <None Include="assets\playway water\Shaders\FFT\FFT.shader" />
+    <None Include="assets\playway water\Shaders\Foam\Global Foam.shader" />
+    <None Include="assets\playway water\Shaders\Foam\Local Foam.shader" />
+    <None Include="assets\playway water\Shaders\IMEs\WaterDrops IME.shader" />
+    <None Include="assets\playway water\Shaders\Overlays\WaveParticles.cginc" />
+    <None Include="assets\playway water\Shaders\Overlays\WaveParticles.shader" />
+    <None Include="assets\playway water\Shaders\Spectrum\Jacobian.shader" />
+    <None Include="assets\playway water\Shaders\Spectrum\Spectral Variances.compute" />
+    <None Include="assets\playway water\Shaders\Spectrum\SpectrumAnimation.shader" />
+    <None Include="assets\playway water\Shaders\Spray\ParticleGeometry.cginc" />
+    <None Include="assets\playway water\Shaders\Spray\SprayController.compute" />
+    <None Include="assets\playway water\Shaders\Spray\SprayGenerator (Local).shader" />
+    <None Include="assets\playway water\Shaders\Spray\SprayGenerator (Tiles).shader" />
+    <None Include="assets\playway water\Shaders\Spray\SprayParticles.shader" />
+    <None Include="assets\playway water\Shaders\Spray\SprayToFoam.shader" />
+    <None Include="assets\playway water\Shaders\Spray\UnityStandardBRDF.cginc" />
+    <None Include="assets\playway water\Shaders\Spray\UnityStandardCore.cginc" />
+    <None Include="assets\playway water\Shaders\Spray\UnityStandardInput.cginc" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (Foam).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (Max).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (Near).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (Underwater).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (UnderwaterMask).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur (VisionBlur).shader" />
+    <None Include="assets\playway water\Shaders\Utility\Blur.shader" />
+    <None Include="assets\playway water\Shaders\Utility\ComposeUnderwaterMask.shader" />
+    <None Include="assets\playway water\Shaders\Utility\DepthMixer.shader" />
+    <None Include="assets\playway water\Shaders\Utility\FFT Utilities.shader" />
+    <None Include="assets\playway water\Shaders\Utility\HeightMapper.shader" />
+    <None Include="assets\playway water\Shaders\Utility\HeightMapperAlt.shader" />
+    <None Include="assets\playway water\Shaders\Utility\NoiseLib.cginc" />
+    <None Include="assets\playway water\Shaders\Utility\Noises.shader" />
+    <None Include="assets\playway water\Shaders\Utility\PlanarReflection - BlurMap.shader" />
+    <None Include="assets\playway water\Shaders\Utility\PlanarReflection - Utilities.shader" />
+    <None Include="assets\playway water\Shaders\Utility\ShadowEnforcer.shader" />
+    <None Include="assets\playway water\Shaders\Utility\ShorelineMaskGenerate.shader" />
+    <None Include="assets\playway water\Shaders\Utility\ShorelineMaskRender.shader" />
+    <None Include="assets\playway water\Shaders\Utility\WaterMask.shader" />
+    <None Include="assets\playway water\Shaders\Utility\WaterNormalMap.shader" />
+    <None Include="assets\playway water\Shaders\Volumes\Volume - Back Depth.shader" />
+    <None Include="assets\playway water\Shaders\Volumes\Volume - Front Depth Fast.shader" />
+    <None Include="assets\playway water\Shaders\Volumes\Volume - Front Depth.shader" />
+    <None Include="assets\playway water\Shaders\Water\AutoLight.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Depth.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Depth.shader" />
+    <None Include="assets\playway water\Shaders\Water\Lighting.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Map Local Displacements.shader" />
+    <None Include="assets\playway water\Shaders\Water\Mapper.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Mapper.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water - Volume.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #-1518419164.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #-16807626.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #-1747073184.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #-519012571.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #1045012064.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #1252587827.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #1283813496.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #2084531273.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Variation #605486929.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Volume Variation #-1229508536.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water Volume Variation #-1870406956.shader" />
+    <None Include="assets\playway water\Shaders\Water\PlayWay Water.shader" />
+    <None Include="assets\playway water\Shaders\Water\Underwater - Base IME.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Underwater - Base IME.shader" />
+    <None Include="assets\playway water\Shaders\Water\Underwater - Screen-Space Mask.cginc" />
+    <None Include="assets\playway water\Shaders\Water\Underwater - Screen-Space Mask.shader" />
+    <None Include="assets\playway water\Shaders\Water\UnityGlobalIllumination.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityLightingCommon.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityPBSLighting.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityShaderVariables.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardBRDF.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardConfig.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardCore.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardInput.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardShadow.cginc" />
+    <None Include="assets\playway water\Shaders\Water\UnityStandardUtils.cginc" />
+    <None Include="assets\playway water\Shaders\Water\WaterDisplace.cginc" />
+    <None Include="assets\playway water\Shaders\Water\WaterLib.cginc" />
+    <None Include="assets\playway water\Shaders\Water\WaterTessellation.cginc" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Meshes\Stars\Stars.txt" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Atmosphere.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Clear Alpha.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Cloud Billboard Far.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Cloud Billboard Near.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Cloud Layer.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Moon.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\PP God Rays.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\PP Scattering.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\PP Screen Clear.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\PP Shadows.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\PP Sky Mask.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Skybox.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Space.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Stars.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\Sun.shader" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\TOD_Base.cginc" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\TOD_Clouds.cginc" />
+    <None Include="assets\playway water\Textures\Time of Day\Assets\Shaders\TOD_Scattering.cginc" />
+    <None Include="assets\standard assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="assets\standard assets\effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
+    <None Include="assets\standard assets\effects\Projectors\Guidelines.txt" />
+    <None Include="assets\standard assets\effects\Projectors\Shaders\ProjectorLight.shader" />
+    <None Include="assets\standard assets\effects\Projectors\Shaders\ProjectorMultiply.shader" />
+    <None Include="assets\standard assets\effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+    <None Include="assets\standard assets\effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
+    <None Include="assets\standard assets\effects\ToonShading\Shaders\ToonBasic.shader" />
+    <None Include="assets\standard assets\effects\ToonShading\Shaders\ToonBasicOutline.shader" />
+    <None Include="assets\standard assets\effects\ToonShading\Shaders\ToonLit.shader" />
+    <None Include="assets\standard assets\effects\ToonShading\Shaders\ToonLitOutline.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\BlendModesOverlay.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\BlurEffectConeTaps.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\CameraMotionBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\CameraMotionBlurDX11.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ChromaticAberrationShader.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ColorCorrection3DLut.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ColorCorrectionCurves.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ColorCorrectionCurvesSimple.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ColorCorrectionEffect.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ColorCorrectionSelective.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\Contrast Stretch\Adaptation.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\Contrast Stretch\Apply.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\Contrast Stretch\Luminance.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\Contrast Stretch\MinMaxReduction.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ContrastComposite.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ConvertDepth.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\CreaseApply.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\EdgeDetectNormals.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\FisheyeShader.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\GlobalFog.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\GrayscaleEffect.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\MotionBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\MotionBlurClear.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\NoiseAndGrain.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\NoiseAndGrainDX11.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\NoiseEffectShaderRGB.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\NoiseEffectShaderYUV.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\PrepareSunShaftsBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\RadialBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\SSAOShader.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ScreenSpaceAmbientObscurance.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ScreenSpaceRaytrace.cginc" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\SepiaToneEffect.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\ShowAlphaChannel.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\SimpleClear.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\SunShaftsComposite.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\Tonemapper.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\TwirlEffect.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\VignettingShader.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\VortexEffect.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\DLAA.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\FXAA2.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\FXAA3Console.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\FXAAPreset2.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\FXAAPreset3.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\NFAA.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_Antialiasing\SSAA.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\Blend.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\BrightPassFilter.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\LensFlareCreate.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\MultiPassHollywoodFlares.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\SeparableBlurPlus.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\Bokeh34.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\DepthOfField34.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\DepthOfFieldDX11.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\SeparableBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+    <None Include="assets\standard assets\effects\imageeffects\Shaders\frag_ao.cginc" />
+    <None Include="assets\standard assets\environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="assets\standard assets\environment\water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="assets\standard assets\environment\water\Water4\Shaders\FXWater4Advanced.shader" />
+    <None Include="assets\standard assets\environment\water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="assets\standard assets\environment\water\Water4\Shaders\WaterInclude.cginc" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="GenerateTargetFrameworkMonikerAttribute" />
+</Project>

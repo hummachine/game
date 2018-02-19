@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayWay Water/Samples/Profiles/SwitchView.cs">
+    <Files>
+      <File FileName="Assets/Time of Day/Assets/Scripts/TOD_WeatherManager.cs" Line="207" Column="4" />
+      <File FileName="Assets/PlayWay Water/Samples/Scripts/PresetDropdown.cs" Line="299" Column="1" />
+      <File FileName="Assets/PlayWay Water/Samples/Profiles/SwitchView.cs" Line="44" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

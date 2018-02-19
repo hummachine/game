@@ -1,0 +1,1262 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Sanford.Multimedia.Midi.dll (this message is harmless)
+Loading C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\Sanford.Multimedia.Midi.dll into Unity Child Domain
+- Completed reload, in  0.014 seconds
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Managed\System.dll (this message is harmless)
+desktop: 1080x1920 60Hz; virtual: 2160x1920 at -1080,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - All passes removed
+UnloadTime: 3.518424 ms
+Audio effect OculusSpatializer could not be found. Check that the project contains the correct native audio plugin libraries and that the importer settings are set up correctly.
+ 
+(Filename:  Line: 378)
+
+displays connected: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.0102,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+""
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+windspeed: 7.51
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+winddeg: 103.5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds waves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.1672,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.1672,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.1672,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.1672,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360314,"sys":{"message":0.1672,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360916,"sys":{"message":0.0261,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360916,"sys":{"message":0.0261,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360916,"sys":{"message":0.0261,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360916,"sys":{"message":0.0261,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512360916,"sys":{"message":0.0261,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512361519,"sys":{"message":0.0086,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512361519,"sys":{"message":0.0086,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512361519,"sys":{"message":0.0086,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512361519,"sys":{"message":0.0086,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":804,"main":"Clouds","description":"overcast clouds","icon":"04d"}],"base":"stations","main":{"temp":301.269,"pressure":1022.54,"humidity":100,"temp_min":301.269,"temp_max":301.269,"sea_level":1022.63,"grnd_level":1022.54},"wind":{"speed":7.51,"deg":103.5},"clouds":{"all":88},"dt":1512361519,"sys":{"message":0.0086,"sunrise":1512333982,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+804
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+overcast clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362121,"sys":{"message":0.0074,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362121,"sys":{"message":0.0074,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362121,"sys":{"message":0.0074,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362121,"sys":{"message":0.0074,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362121,"sys":{"message":0.0074,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362724,"sys":{"message":0.0097,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362724,"sys":{"message":0.0097,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362724,"sys":{"message":0.0097,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362724,"sys":{"message":0.0097,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512362724,"sys":{"message":0.0097,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363327,"sys":{"message":0.0258,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+""
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+windspeed: 6.62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+winddeg: 110.007
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds waves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363931,"sys":{"message":0.0107,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363931,"sys":{"message":0.0107,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363931,"sys":{"message":0.0107,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363931,"sys":{"message":0.0107,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512363931,"sys":{"message":0.0107,"sunrise":1512333983,"sunset":1512374036},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512364533,"sys":{"message":0.0272,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512364533,"sys":{"message":0.0272,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512364533,"sys":{"message":0.0272,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512364533,"sys":{"message":0.0272,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512364533,"sys":{"message":0.0272,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365136,"sys":{"message":0.0522,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365136,"sys":{"message":0.0522,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365136,"sys":{"message":0.0522,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365136,"sys":{"message":0.0522,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365136,"sys":{"message":0.0522,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365738,"sys":{"message":0.0104,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365738,"sys":{"message":0.0104,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365738,"sys":{"message":0.0104,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365738,"sys":{"message":0.0104,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512365738,"sys":{"message":0.0104,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366341,"sys":{"message":0.0079,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366341,"sys":{"message":0.0079,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366341,"sys":{"message":0.0079,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366341,"sys":{"message":0.0079,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366341,"sys":{"message":0.0079,"sunrise":1512333984,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512366943,"sys":{"message":0.0173,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+""
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+windspeed: 6.62
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+winddeg: 110.007
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds waves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512367545,"sys":{"message":0.0132,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512367545,"sys":{"message":0.0132,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512367545,"sys":{"message":0.0132,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":802,"main":"Clouds","description":"scattered clouds","icon":"03d"}],"base":"stations","main":{"temp":301.505,"pressure":1021.62,"humidity":100,"temp_min":301.505,"temp_max":301.505,"sea_level":1021.62,"grnd_level":1021.62},"wind":{"speed":6.62,"deg":110.007},"clouds":{"all":36},"dt":1512367545,"sys":{"message":0.0132,"sunrise":1512333985,"sunset":1512374037},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+802
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+scattered clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 20f0 -> priority: 1 
+  Thread -> id: 1e24 -> priority: 1 
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves;C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Oli'
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1.exe:pleaseworkagainsoundtest1.exe (00DE0000), size: 18989056 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1.exe', fileVersion: 5.6.1.24755
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (77090000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.19135
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (75AF0000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.19135
+C:\Windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (769B0000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.19135
+C:\Windows\system32\HID.DLL:HID.DLL (73CA0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\msvcrt.dll:msvcrt.dll (76A90000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\Windows\syswow64\USER32.dll:USER32.dll (75820000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\GDI32.dll:GDI32.dll (76A00000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\LPK.dll:LPK.dll (75AE0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7601.18946
+C:\Windows\syswow64\USP10.dll:USP10.dll (75180000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.17514
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (76870000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.19135
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (75800000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\RPCRT4.dll:RPCRT4.dll (76B40000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.19135
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74BA0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.19135
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74B90000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7601.19135
+C:\Windows\system32\VERSION.dll:VERSION.dll (72790000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (75330000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (76C30000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (75C00000), size: 12894208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.23537
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (71280000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (72F90000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (720D0000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (71F50000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.18946
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (74F80000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (74F20000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (75920000), size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.17676
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (76850000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (71EE0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINMM.dll:WINMM.dll (726D0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (74C30000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.23451
+C:\Windows\syswow64\NSI.dll:NSI.dll (75490000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (759B0000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll (75A10000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (721F0000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (72250000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (720C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (72060000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.23451
+C:\Windows\system32\webio.dll:webio.dll (71F00000), size: 327680 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.23375
+C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (77060000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (71D20000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.23451
+C:\Windows\System32\wship6.dll:wship6.dll (6F350000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wship6.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (72650000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Plugins\AudioPluginHelm.dll:AudioPluginHelm.dll (0F1C0000), size: 12455936 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Oli\Documents\Work\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest1_Data\Plugins\AudioPluginHelm.dll'
+C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL:api-ms-win-core-synch-l1-2-0.DLL (72780000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL', fileVersion: 10.0.10240.16390
+C:\Windows\system32\d3d11.dll:d3d11.dll (72DF0000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d11.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\dxgi.dll:dxgi.dll (72D60000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dxgi.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (74C00000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.17787
+C:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (74C80000), size: 1171456 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.18151
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (74C70000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\nvwgf2um.dll:nvwgf2um.dll (06DF0000), size: 17727488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvwgf2um.dll', fileVersion: 22.21.13.8205
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (70E00000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\bcrypt.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\nvspcap.dll:nvspcap.dll (59490000), size: 1482752 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvspcap.dll', fileVersion: 3.6.0.74
+C:\Windows\system32\WTSAPI32.dll:WTSAPI32.dll (727D0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WTSAPI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\profapi.dll:profapi.dll (727A0000), size: 45056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\profapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\nvapi.dll:nvapi.dll (53980000), size: 3768320 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\nvapi.dll', fileVersion: 22.21.13.8205
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (75270000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (719B0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (704F0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (704E0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+C:\Windows\SysWOW64\bcryptprimitives.dll:bcryptprimitives.dll (70DC0000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\bcryptprimitives.dll', fileVersion: 6.1.7601.19012
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (72CE0000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MMDevApi.dll', fileVersion: 6.1.7601.17514
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (71DE0000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (5B690000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (6E820000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.7601.19091
+C:\Windows\system32\AVRT.dll:AVRT.dll (70980000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (72D20000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\msacm32.drv:msacm32.drv (5B680000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (5B660000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (5B650000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll:comctl32.dll (72270000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.17514_none_41e6975e2bd6f2b2\comctl32.dll', fileVersion: 6.10.7601.17514
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (6A110000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (67650000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\credssp.dll:credssp.dll (69D40000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\credssp.dll', fileVersion: 6.1.7601.19135
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (719D0000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wshtcpip.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rasadhlp.dll:rasadhlp.dll (70550000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rasadhlp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (6F310000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\fwpuclnt.dll', fileVersion: 6.1.7601.18283
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (72E80000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 00E4854B)
+0x00E4854B (pleaseworkagainsoundtest1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01626088)
+0x01626088 (pleaseworkagainsoundtest1) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01663D04)
+0x01663D04 (pleaseworkagainsoundtest1) 
+0x75B0338A (kernel32) BaseThreadInitThunk
+0x770C9A02 (ntdll) RtlInitializeExceptionChain
+0x770C99D5 (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
