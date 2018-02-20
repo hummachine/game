@@ -1,0 +1,77 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     1969 MB
+    Driver:   22.21.13.8205
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Sanford.Multimedia.Midi.dll (this message is harmless)
+Loading D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\Sanford.Multimedia.Midi.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Work\game-master\GOOD1 - Copy\WorkingWaves\pleaseworkagainsoundtest8_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3000x1920 at -1080,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Sun') is missing!
+ 
+(Filename:  Line: 1743)
+
+The referenced script on this Behaviour (Game Object 'Sun') is missing!
+ 
+(Filename:  Line: 1743)
+
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS_HQ _VOLUMETRIC_LIGHTING _WATER_FOAM_WS _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Variations/Water _ALPHABLEND_ON _CUBEMAP_REFLECTIONS _NORMALMAP _PLANAR_REFLECTIONS _VOLUMETRIC_LIGHTING _WATER_REFRACTION _WAVES_FFT' - All passes removed
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - Pass 'FORWARD' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - Pass 'SHADOWCASTER' has no vertex shader
+WARNING: Shader Unsupported: 'PlayWay Water/Standard' - All passes removed
+UnloadTime: 3.707705 ms
+displays connected: 2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+{"coord":{"lon":142.5,"lat":17.75},"weather":[{"id":803,"main":"Clouds","description":"broken clouds","icon":"04d"}],"base":"stations","main":{"temp":299.881,"pressure":1026.69,"humidity":100,"temp_min":299.881,"temp_max":299.881,"sea_level":1026.73,"grnd_level":1026.69},"wind":{"speed":8.26,"deg":69.0031},"clouds":{"all":64},"dt":1519113274,"sys":{"message":0.0087,"sunrise":1519073663,"sunset":1519115598},"id":0,"name":"","cod":200}
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+803
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+broken clouds
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3246c -> priority: 1 
+  Thread -> id: 4d8c0 -> priority: 1 
